@@ -1,4 +1,4 @@
-# Computer Networks — Assignment 1
+# Computer Networks - Assignment 1
 
 A C++ network programming repository containing socket applications built over a cross platform abstraction layer (`net.hpp`). Implements servers and clients for Daytime, Echo, Web, Framing, Threaded, and a multi-user Capstone Chat System.
 
