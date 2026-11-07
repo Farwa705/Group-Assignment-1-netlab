@@ -9,7 +9,7 @@
 Hania Zafar - 250901028
 Farwa Zainab - 250901069
 Nayab Fatima - 250901024
-Aimen Aatif - 250901049
+Aiman Atif - 250901049
 Warisha Bukhari - 250901005
 
 ---
